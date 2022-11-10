@@ -1,8 +1,8 @@
-# Color-Tracking-and-Drawing
+# Color-Tracking
 
 ### Description:
 - Object tracking by HSV color space
-- Draw in the air with object
+- Draw line around the object
 
 ### Prerequisites:
 - Python
